@@ -1,0 +1,35 @@
+@font-face {
+	font-family: Euclid Circular A;
+	src: url(../fonts/euclid-circular-a/Euclid\ Circular\ A\ Regular.ttf);
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: Euclid Circular A;
+	src: url(../fonts/euclid-circular-a/Euclid\ Circular\ A\ Medium.ttf);
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: Euclid Circular A;
+	src: url(../fonts/euclid-circular-a/Euclid\ Circular\ A\ SemiBold.ttf);
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: Euclid Circular A;
+	src: url(../fonts/euclid-circular-a/Euclid\ Circular\ A\ Bold.ttf);
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url(../fonts/montserrat/Montserrat-Medium.ttf);
+	font-weight: 500;
+}
+
+@font-face {
+	font-family: Montserrat;
+	src: url(../fonts/montserrat/Montserrat-Bold.ttf);
+	font-weight: 700;
+}
